@@ -32,7 +32,6 @@ long int Factorial ( int Num )
     
     goto Next;
   }
-  
   return Fac;
 }
 
